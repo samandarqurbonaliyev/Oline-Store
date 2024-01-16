@@ -1,0 +1,325 @@
+body{
+	background-color: black;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.blok{
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-around;
+}
+.blok.center{
+	display: flex;
+	justify-content: space-around;
+}
+.blok a{
+	color: white;
+	font-size: 20px;
+	margin: 20px;
+	text-decoration: none;
+	margin-top: 30px;
+}
+.blok h2{
+
+	font-weight: 300;
+	color: white;
+	font-size: 27px;
+	margin: 0px;
+	
+}
+.blok form button{
+	width: 120px;
+	height: 40px;
+	color: white;
+	font-size: 18px;
+	background-color: black;
+	border: 1px solid white;
+	margin-top: -10px;
+}
+.blok1 h2{
+	font-weight: 250;
+	font-size: 70px;
+	color: white	;
+	margin-top: 100px;
+	text-align: center;
+}
+.blok1 form{
+	display: flex;
+	justify-content: space-around;
+}
+.blok1 p{
+	color:white ;
+	width: 400px; 
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 450px;
+
+}
+.blok1 form button:last-child{
+	width: 180px;
+	height: 60px;
+	margin-left: -600px;
+	line-height: 60px;
+	color: white;
+	background-color: black;
+	border: 1px solid white;
+}
+.blok1 img{
+	margin-top: 50px;
+	width: 100%;
+	height: 600px;
+}
+.blok1 form button{
+	width: 180px;
+	margin-top: 100px;
+	height: 60px;
+	text-align: center;
+	margin-left: 50px;
+	line-height: 60px;
+	color: white;
+	background-color: blue;
+}
+.blok2 h2{
+	margin-left: 100px;
+	margin-top: 50px;
+	font-size: 40px;
+	font-weight: 300;
+	color: white;
+	text-align: center;
+}
+.blok2 p{
+	margin-left: 900px;
+	width: 300px;
+	font-size: 15px;
+	font-weight: 300;
+	color: white;
+	text-align: justify;
+	width: 300px;
+}
+.blok2{
+	display: grid;
+	grid-template-columns: 1fr 6fr;
+}
+.blok-9 img{
+	width: 500px;
+	height: 500px;
+	margin-top: 180px;
+	margin-left: -1000px;
+}
+.blok2 h1{
+	color: white;
+	margin-left: 900px;
+	margin-top: -270px;
+}
+.bloke p{
+	color: white;
+	width: 400px;
+	position: absolute;
+	margin-left: 450px; 
+}
+.blok3 h2{
+	color: white;
+	margin-left: 50%;
+	margin-top: 50px;	
+	font-size: 40px;
+	font-weight: 300;
+}
+.blok-3{
+	display: grid;
+	grid-template-columns: 6fr 6fr;
+}
+.blok3 p{
+	color: white;
+	font-size: 17px;
+	font-weight: 300;
+	margin-left: 500px;
+	text-align: center;
+	width: 400px;
+}
+.blok3 img{
+	width: 350px;
+	height: 500px;
+	border-radius: 30px;
+	margin-left: 200px;
+	margin-top: 50px;
+}
+.blok4 h2{
+	color: white;
+	margin-left: 50%;
+	margin-top: 50px;	
+	font-size: 40px;
+	font-weight: 300;
+}
+.blok4 p{
+	color: white;
+	font-size: 17px;
+	font-weight: 300;
+	margin-left: 500px;
+	text-align: center;
+	width: 400px;
+}
+.nav{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin-left: 150px;
+}
+.blok4 img{
+	width: 300px;
+	height: 350px;
+	border-radius: 20px;
+	margin-top: 50px;
+}
+.blok5 h2{
+	color: white;
+	margin-left: 50%;
+	margin-top: 50px;	
+	font-size: 40px;
+	font-weight: 300;
+}
+.blok5 p{
+	color: white;
+	font-size: 17px;
+	font-weight: 300;
+	margin-left: 500px;
+	text-align: center;
+	width: 400px;
+}
+.blok-5{
+	background-color: white;
+	border-radius: 30px;
+	border: 2px solid white;
+	margin-left: 300px;
+	margin-top: 50px;
+	width: 800px;
+	display: flex;
+	justify-content: space-around;
+}
+.blok5 img{
+
+	margin: 20px;;
+	width: 60px;
+	height: 60px;
+
+}
+.blok5 form button{
+	width: 120px;
+	height: 40px;
+	color: white;
+	background-color: black;
+	margin-left: 50%;
+	font-size: 18px;
+	border: 1px solid white;
+	margin-top: 30px;
+}
+.blok6 h1{
+	color: white;
+	margin-left: 600px;
+	margin-top: 50px;	
+	font-size: 40px;
+	font-weight: 300;
+}
+.bloh{
+	display: grid;
+	grid-template-columns: 4fr 4fr;
+}
+.blok-6{
+	margin-top: 100px;
+	margin-left: 200px;
+	width: 400px;
+	height: 300px;
+	border: 2px solid white;
+	border-radius: 20px;
+}
+.blok-6 img{
+	margin: 50px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+.blok-6 p{
+	color: white;
+	padding: 20px;
+}
+.blok-6 h2{
+	color: white;
+	margin-left: 150px;
+	margin-top: -100px;
+}
+.blok7{
+	margin-top: 150px;
+	margin-left: 200px;
+	width: 450px;
+	height: 300px;
+	background-color: silver;
+	border-bottom-left-radius: 30px;
+	border-top-left-radius: 30px;
+}
+.blok7 h2 {
+	color: white;
+	margin-left: 160px;
+	padding-top: 100px;
+	font-size: 34px;
+
+}
+.blok7 a {
+	background-color: blue;
+	text-decoration: none;
+	width: 300px;
+	height: 60px;
+	line-height: 60px;
+	padding: 20px;
+	border-radius: 20px;
+	color: white;
+	margin-left: 200px;
+	margin-top: 20px;
+	font-size: 17px;
+	
+}
+.blok-7 img{
+	margin-left: 450px;
+	width: 600px;
+	margin-top: -235px;
+	height: 300px;
+
+	border-bottom-right-radius: 30px;
+	border-top-right-radius: 30px;
+}
+.blok8{
+	padding: 50px;
+	background-color: silver;
+	margin-top: 100px;
+	width: 1300px;
+	height: 400px;
+	display: flex;
+	justify-content: space-around;
+}
+.bottom a{
+	color: white;
+	margin-left: 150px;
+	margin: 30px;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: 300;
+	paddin-left: 200px;
+	display: flex;
+	justify-content: space-between;
+}
+.b2 p{
+	color: white;
+	font-size: 24px;
+	font-weight: 300;
+	margin-left: 70px;
+	margin-top: -30px;
+}
+.b2{
+	margin-left: 200px;
+}
+.b2 img{
+	margin-top: 35px;
+	width: 25px;
+	margin-left: 20px;
+	height: 25px;
+}
